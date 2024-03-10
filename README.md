@@ -1,4 +1,5 @@
-# <h1 style="text-align: center;">`Typescript Card Game 🃏`</h1>
+# <p align="center">`Typescript Card Game 🃏`</p>
+
 
 ---
 
