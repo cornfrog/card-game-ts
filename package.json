@@ -1,0 +1,16 @@
+{
+  "name": "card-game-ts",
+  "version": "1.0.0",
+  "main": "build/main.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "yarn run clean && yarn run compile && node .",
+    "clean": "rm -rf build",
+    "compile": "tsc"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.202",
+    "lodash": "^4.17.21"
+  }
+}
